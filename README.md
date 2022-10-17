@@ -27,3 +27,14 @@ kata kunci untuk mengucapkan terimakasih :
 
 1) makasih / terimakasih / terima kasih / thanks
 ```
+
+```
+➠pkg update && pkg upgrade 
+➠pkg install python
+➠pkg install git 
+➠pip install requests 
+➠pip install mechanize 
+➠git clone https://github.com/P4HRUL/CHAT
+➠cd CHAT
+➠python CHAT
+```
